@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/gold_nugget"
+    },
+    "overrides":
+    [
+        { "predicate": { "custom_model_data": 921503}, "model": "symbols/gold_ability_symbol"},
+        { "predicate": { "custom_model_data": 921504}, "model": "symbols/gold_brave_symbol"},
+        { "predicate": { "custom_model_data": 921505}, "model": "symbols/gold_guts_symbol"},
+        { "predicate": { "custom_model_data": 921506}, "model": "symbols/gold_knowledge_symbol"},
+        { "predicate": { "custom_model_data": 921507}, "model": "symbols/gold_luck_symbol"},
+        { "predicate": { "custom_model_data": 921508}, "model": "symbols/gold_spirits_symbol"},
+        { "predicate": { "custom_model_data": 921509}, "model": "symbols/gold_tactics_symbol"}
+        
+    ]
+}

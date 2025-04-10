@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/iron_nugget"
+    },
+    "overrides":
+    [
+        { "predicate": { "custom_model_data": 921510}, "model": "symbols/iron_ability_symbol"},
+        { "predicate": { "custom_model_data": 921511}, "model": "symbols/iron_brave_symbol"},
+        { "predicate": { "custom_model_data": 921512}, "model": "symbols/iron_guts_symbol"},
+        { "predicate": { "custom_model_data": 921513}, "model": "symbols/iron_knowledge_symbol"},
+        { "predicate": { "custom_model_data": 921514}, "model": "symbols/iron_luck_symbol"},
+        { "predicate": { "custom_model_data": 921515}, "model": "symbols/iron_spirits_symbol"},
+        { "predicate": { "custom_model_data": 921516}, "model": "symbols/iron_tactics_symbol"}
+        
+    ]
+}

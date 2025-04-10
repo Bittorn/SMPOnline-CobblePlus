@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "cobplus:item/symbols/iron_knowledge_symbol"
+    }
+}
