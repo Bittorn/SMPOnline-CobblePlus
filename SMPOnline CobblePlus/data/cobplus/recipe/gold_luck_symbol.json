@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:gold_nugget"
+  },
+  "result": {
+    "id": "minecraft:gold_nugget",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"italic\":false,\"text\":\"Gold Luck Symbol\"}",
+      "minecraft:unbreakable": {},
+      "minecraft:custom_model_data": 921507,
+      "minecraft:custom_data": "{custom_id:'symbol'}"
+    }
+  }
+}

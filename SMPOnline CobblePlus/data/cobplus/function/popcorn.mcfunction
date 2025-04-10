@@ -1,0 +1,1 @@
+give @s sweet_berries[max_stack_size=64,item_name='{"italic":false,"text":"Popcorn"}',custom_model_data=921501,food={nutrition:1,saturation:0,can_always_eat:true}] 64

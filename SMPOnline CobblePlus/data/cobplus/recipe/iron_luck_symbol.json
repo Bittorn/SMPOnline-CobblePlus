@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:iron_nugget"
+  },
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "count": 1,
+    "components": {
+      "minecraft:item_name": "{\"italic\":false,\"text\":\"Iron Luck Symbol\"}",
+      "minecraft:unbreakable": {},
+      "minecraft:custom_model_data": 921514,
+      "minecraft:custom_data": "{custom_id:'symbol'}"
+    }
+  }
+}
