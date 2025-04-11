@@ -84,7 +84,7 @@
         { "predicate": { "custom_model_data": 921073}, "model": "badges/storm_badge"},
         { "predicate": { "custom_model_data": 921074}, "model": "badges/suchiru_badge"},
 
-        { "predicate": { "custom_model_data": 921075}, "model": "badges/teener_badge"},
+        { "predicate": { "custom_model_data": 921075}, "model": "badges/tim_badge"},
         { "predicate": { "custom_model_data": 921076}, "model": "badges/thunder_badge"},
         { "predicate": { "custom_model_data": 921077}, "model": "badges/tobu_badge"},
         { "predicate": { "custom_model_data": 921078}, "model": "badges/toxic_badge"},
