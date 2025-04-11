@@ -8,7 +8,7 @@ Add badges from Pixelmon into a datapack. Also popcorn.
 
 ## Usage
 
-A stack of any badge can be spawned with `/function cobplus:badges/\<badge_name> {sign=<player_name>}`
+A stack of any badge can be spawned with `/function cobplus:badges/<badge_name> {sign=<player_name>}`
 `<player_name>` is the name of the player given on the metadata.
 E.g. `/function cobplus:badges/cobble_badge {sign="nobody"}`
 will give a Cobble Badge with the lore `This badge has been signed by nobody`
@@ -29,7 +29,7 @@ For players who beat 100% of the game (or whatever other reward you want), a 'gi
 From the Pixelmon Mod Terms of Use:
 
 > **Distribution**
-> Distribution of this mod is only permitted to the Pixelmon Mod website, via our downloads page. Redistribution in any form, whether it be public or private modpack, alternate download link, direct download link to the software, or downloading from any location not defined by Pixelmon Mod via > the downloads page is strictly prohibited. The administration team reserve the right to define redistribution as they please. Failure or refusal to adhere to this is a violation of Pixelmon Mod intellectual rights, and will be defended either with removal of access to the mod at download, or > in severe or larger cases, legal action may be taken.
+> Distribution of this mod is only permitted to the Pixelmon Mod website, via our downloads page. Redistribution in any form, whether it be public or private modpack, alternate download link, direct download link to the software, or downloading from any location not defined by Pixelmon Mod via the downloads page is strictly prohibited. The administration team reserve the right to define redistribution as they please. Failure or refusal to adhere to this is a violation of Pixelmon Mod intellectual rights, and will be defended either with removal of access to the mod at download, or in severe or larger cases, legal action may be taken.
 > 
 > **Alteration**
 > Do not alter any compiled version of The Mod in any way.
