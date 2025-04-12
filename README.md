@@ -17,6 +17,8 @@ Symbols can be crafted by placing iron/gold nuggets in a stonecutter to produce 
 
 A stack of popcorn can be spawned with `/function cobplus:popcorn` or crafted by combining a Sweet Berry with a Yellow Apricorn.
 
+Battle music discs can be crafted by using any creeper obtainably music disc and an evo stone. There are 10 different music tracks, listed below:
+
 For players who beat 100% of the game (or whatever other reward you want), a 'gift' can be spawned with `/function cobplus:gift`
 
 ## Requirements
@@ -31,6 +33,21 @@ All symbol and badge textures were created by the Pixelmon team, excepting custo
 Popcorn texture based off of a random image I found on the internet (credit that guy)
 
 'Gift' was created with the assistance of style transfer AI, with manual touchups done after the fact.
+
+The icon for the pack is a custom icon I designed for the Waifu gym that was eventually scrapped, but I think it looks kinda cute so :)
+
+### Music discs
+
+- bw_elite (water stone) - Pokémon Black & White - Elite Four Battle Music
+- dp_champion (dusk stone) - Pokémon Diamond, Pearl & Platinum - Champion Cynthia Battle Music
+- hgss_red (fire stone) - Pokémon HeartGold & SoulSilver - Champion & Red Battle Music
+- oras_gym (sun stone) - Pokémon Omega Ruby & Alpha Sapphire - Gym Leader Battle Music
+- oras_uma (shiny stone) - Pokémon Omega Ruby & Alpha Sapphire - Uxie, Mesprit & Azelf Battle Music
+- oras_wally (dawn stone) - Pokémon Omega Ruby & Alpha Sapphire - Wally Battle Music
+- oras_zinnia (ice stone) - Pokémon Omega Ruby & Alpha Sapphire - Zinnia Battle Music
+- sv_penny (moon stone) - Pokémon Scarlet & Violet - Penny Battle Music
+- ss_gym (leaf stone) - Pokémon Sword & Shield - Gym Leader Battle Music
+- usum_necrozma (thunder stone) - Pokémon UltraSun & UltraMoon - Ultra Necrozma Battle Music
 
 ### Downscaled textures
 
