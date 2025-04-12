@@ -24,24 +24,6 @@ For players who beat 100% of the game (or whatever other reward you want), a 'gi
 - The SMPOnline CobblePlus resource pack
 - Cobblemon
 
-## BIG POTENTIAL ISSUE !!
-
-From the Pixelmon Mod Terms of Use:
-
-> **Distribution**
-> Distribution of this mod is only permitted to the Pixelmon Mod website, via our downloads page. Redistribution in any form, whether it be public or private modpack, alternate download link, direct download link to the software, or downloading from any location not defined by Pixelmon Mod via the downloads page is strictly prohibited. The administration team reserve the right to define redistribution as they please. Failure or refusal to adhere to this is a violation of Pixelmon Mod intellectual rights, and will be defended either with removal of access to the mod at download, or in severe or larger cases, legal action may be taken.
-> 
-> **Alteration**
-> Do not alter any compiled version of The Mod in any way.
-> 
-> **Cosmetics**
-> Please do not sell, alter, block use of to players, or falsify the player cosmetics. These are a perk of donating toward Pixelmon development or awarded via events.
-
-cont.
-
-> **Copyright Notice**
-> Copyright and other relevant intellectual property rights exists on all assets relating to the Pixelmon Mod entirely, and the full content of this website. Anything submitted to Pixelmon made by a community member for use in the mod will be treated as a transfer of ownership, which may not be later redacted without written consent of both the original creator and Pixelmon Mod. Anything not covered as such will be duly noted alongside said assets.
-
 ## Credits
 
 All symbol and badge textures were created by the Pixelmon team, excepting custom badges (which I did). 32x32 badges were manually downscaled and cleaned up by me.
