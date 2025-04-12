@@ -8,7 +8,7 @@ Add badges from Pixelmon into a datapack. Also popcorn.
 
 ## Usage
 
-A stack of any badge can be spawned with `/function cobplus:badges/\<badge_name> {sign=<player_name>}`
+A stack of any badge can be spawned with `/function cobplus:badges/<badge_name> {sign=<player_name>}`
 `<player_name>` is the name of the player given on the metadata.
 E.g. `/function cobplus:badges/cobble_badge {sign="nobody"}`
 will give a Cobble Badge with the lore `This badge has been signed by nobody`
@@ -46,7 +46,7 @@ Popcorn texture based off of a random image I found on the internet (credit that
 - Asaii Badge
 - Cargskin Badge
 - Quask Badge
-- Teener Badge
+- Tim Badge
 - Waga Badge
 
 ## All badge IDs (it's a long list!)
@@ -125,7 +125,7 @@ Popcorn texture based off of a random image I found on the internet (credit that
 - stone_badge
 - storm_badge
 - suchiru_badge
-- teener_badge
+- tim_badge
 - thunder_badge
 - tobu_badge
 - toxic_badge
