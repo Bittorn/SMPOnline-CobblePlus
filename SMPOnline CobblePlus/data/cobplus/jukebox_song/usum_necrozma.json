@@ -1,0 +1,10 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "text": "Pokémon UltraSun & UltraMoon - Ultra Necrozma Battle Music"
+  },
+  "length_in_seconds": 300.0,
+  "sound_event": {
+    "sound_id": "cobplus:music_disc.usum_necrozma"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "comparator_output": 13,
+  "description": {
+    "text": "Pokémon Diamond, Pearl & Platinum - Champion Cynthia Battle Music"
+  },
+  "length_in_seconds": 180.0,
+  "sound_event": {
+    "sound_id": "cobplus:music_disc.dp_champion"
+  }
+}

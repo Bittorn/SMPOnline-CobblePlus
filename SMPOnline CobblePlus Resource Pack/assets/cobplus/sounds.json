@@ -1,0 +1,82 @@
+{
+  "music_disc.bw_elite": {
+    "sounds": [
+      {
+        "name": "cobplus:bw_elite",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.dp_champion": {
+    "sounds": [
+      {
+        "name": "cobplus:dp_champion",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.hgss_red": {
+    "sounds": [
+      {
+        "name": "cobplus:hgss_red",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oras_gym": {
+    "sounds": [
+      {
+        "name": "cobplus:oras_gym",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oras_uma": {
+    "sounds": [
+      {
+        "name": "cobplus:oras_uma",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oras_wally": {
+    "sounds": [
+      {
+        "name": "cobplus:oras_wally",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.oras_zinnia": {
+    "sounds": [
+      {
+        "name": "cobplus:oras_zinnia",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.sv_penny": {
+    "sounds": [
+      {
+        "name": "cobplus:sv_penny",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.ss_gym": {
+    "sounds": [
+      {
+        "name": "cobplus:ss_gym",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.usum_necrozma": {
+    "sounds": [
+      {
+        "name": "cobplus:usum_necrozma",
+        "stream": true
+      }
+    ]
+  }
+}

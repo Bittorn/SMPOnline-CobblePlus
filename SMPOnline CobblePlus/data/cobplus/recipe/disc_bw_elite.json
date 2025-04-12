@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    {
+      "item": "cobblemon:water_stone"
+    }
+  ],
+  "result": {
+    "id": "minecraft:music_disc_precipice",
+    "components": {
+      "minecraft:jukebox_playable": {
+        "song": "cobplus:bw_elite"
+      }
+    }
+  }
+}
