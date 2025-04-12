@@ -64,7 +64,7 @@ Popcorn texture based off of a random image I found on the internet (credit that
 - Asaii Badge
 - Cargskin Badge
 - Quask Badge
-- Teener Badge
+- Tim Badge
 - Waga Badge
 
 ## All badge IDs (it's a long list!)
@@ -143,7 +143,7 @@ Popcorn texture based off of a random image I found on the internet (credit that
 - stone_badge
 - storm_badge
 - suchiru_badge
-- teener_badge
+- tim_badge
 - thunder_badge
 - tobu_badge
 - toxic_badge
