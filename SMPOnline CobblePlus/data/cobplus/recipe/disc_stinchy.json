@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "minecraft:creeper_drop_music_discs"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:music_disc_heave_ho",
+    "components": {
+      "minecraft:jukebox_playable": {
+        "song": "cobplus:stinchy"
+      }
+    }
+  }
+}

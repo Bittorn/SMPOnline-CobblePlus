@@ -78,5 +78,13 @@
         "stream": true
       }
     ]
+  },
+  "music_disc.stinchy": {
+    "sounds": [
+      {
+        "name": "cobplus:stinchy",
+        "stream": true
+      }
+    ]
   }
 }
