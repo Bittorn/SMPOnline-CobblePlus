@@ -1,6 +1,23 @@
 {
     "pack": {
-        "pack_format": 48,
-        "description": "Datapack for SMPOnline Cobblemon adding badges and misc items"
+        "supported_formats": [
+			48,
+			51
+		],
+		"pack_format": 48,
+		"description": [
+			{
+				"text": "SMPOnline CobblePlus",
+				"color": "#1eb2bc"
+			},
+			{
+				"text": " - Pokemon badges & more\nCreated by ",
+				"color": "gray"
+			},
+			{
+				"text": "Bittorn / cadeautje",
+				"color": "#683edd"
+			}
+		]
     }
 }

@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "minecraft:creeper_drop_music_discs"
+      "tag": "c:music_discs"
     },
     {
       "item": "cobblemon:leaf_stone"
