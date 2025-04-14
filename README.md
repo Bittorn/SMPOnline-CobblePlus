@@ -12,6 +12,7 @@ A stack of any badge can be spawned with `/function cobplus:badges/<badge_name> 
 `<player_name>` is the name of the player given on the metadata.
 E.g. `/function cobplus:badges/cobble_badge {sign="nobody"}`
 will give a Cobble Badge with the lore `This badge has been signed by nobody`
+The signed name is meant to be the name of the gym leader being given the badge. This serves as verification that the badge has come from the gym leader. 
 
 Symbols can be crafted by placing iron/gold nuggets in a stonecutter to produce iron/gold symbols.
 
